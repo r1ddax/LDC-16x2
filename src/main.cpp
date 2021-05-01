@@ -31,12 +31,12 @@ void setup() {
   writeOnLCD(0x01, LOW); // HIGH to send chars.
                          // LOW to send command.
 
-  writeOnLCD(0x48, HIGH); // H, e, l, l, o, !
-  writeOnLCD(0x65, HIGH);
-  writeOnLCD(0x6C, HIGH);
-  writeOnLCD(0x6C, HIGH);
-  writeOnLCD(0x6F, HIGH);
-  writeOnLCD(0x21, HIGH);
+  writeOnLCD('R', HIGH); // H, e, l, l, o, !
+  writeOnLCD('1', HIGH);
+  writeOnLCD('D', HIGH);
+  writeOnLCD('D', HIGH);
+  writeOnLCD('A', HIGH);
+  writeOnLCD('X', HIGH);
 }
 
 /*
