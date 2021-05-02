@@ -34,7 +34,7 @@ This code aims to help people to study writing on lcd 16x2 and to implement the 
 :heavy_check_mark: Clear LCD. </br>
 
 ## Deploy
-![LcdExample](./resources/r1ddax_lcd.png)
+![LcdExample](./resources/r1ddax_lcd.jpg)
 
 ## Requirements
 I did (digitalWrite) using <Arduino.h> library, it isn't really necessary, but if you want use my current code it is important.
