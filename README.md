@@ -20,6 +20,7 @@
 :small_blue_diamond: <a href="#functionalities" target="_blank">Functionalities</a></br>
 :small_blue_diamond: <a href="#deploy" target="_blank">Deploy</a></br>
 :small_blue_diamond: <a href="#requirements" target="_blank">Requirements</a></br>
+:small_blue_diamond: <a href="#pinout" target="_blank">Pinout</a></br>
 :small_blue_diamond: <a href="#running" target="_blank">Running</a></br>
 :small_blue_diamond: <a href="#tasks" target="_blank">Tasks</a>
 </p>
@@ -46,6 +47,9 @@ Clone this repository
 ```
 git clone https://github.com/r1ddax/LDC-16x2.git
 ```
+
+## Pinout
+![Pinout](./resources/16x2_pinout.png)
 
 ## Tasks
 
